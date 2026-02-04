@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+openai
+requests
+python-dotenv
+pydantic
+Django>=4.2,<5.0
