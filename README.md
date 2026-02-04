@@ -6,10 +6,21 @@ Real third-party API integrations
 Local execution via CLI
 This project was built as part of a 24-hour GenAI Intern Assignment.
 openweathermap and newsapi are used to extract data based on user query
+
+
+
+
 To evaluate this open terminal and run:
  1: python -m pip install -r requirements.txt
  2:python main.py
  3:then provide userquery inside terminal 
+
+
+
+
+
+
+ 
 Please i did not provided any API_KEYS please check the my mail before evalution i would send you API_KEYS
 The examples i tested:
  1:Enter your task: Tell me the current weather in Bangalore
